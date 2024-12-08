@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gHEQhCluUQli6NaPdv5uKWZiGoYlYhn7iHSMcy7vTEw=",
+  "Source": "MyStackApp",
+  "BasePath": "_content/MyStackApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

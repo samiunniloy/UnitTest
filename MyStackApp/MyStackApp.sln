@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStackApp", "MyStackApp.csproj", "{5466181E-A26B-4574-A29C-F3E890FE714D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStackAppTest", "..\MyStackAppTest\MyStackAppTest.csproj", "{D263F3BF-E902-4918-8FD7-62BA06372559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5466181E-A26B-4574-A29C-F3E890FE714D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5466181E-A26B-4574-A29C-F3E890FE714D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5466181E-A26B-4574-A29C-F3E890FE714D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5466181E-A26B-4574-A29C-F3E890FE714D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D263F3BF-E902-4918-8FD7-62BA06372559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D263F3BF-E902-4918-8FD7-62BA06372559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D263F3BF-E902-4918-8FD7-62BA06372559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D263F3BF-E902-4918-8FD7-62BA06372559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB95B825-D383-4C2B-86B8-B0FC2EFDBAE0}
+	EndGlobalSection
+EndGlobal
