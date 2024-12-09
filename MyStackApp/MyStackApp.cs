@@ -43,7 +43,6 @@ namespace MyStackApp
             }
             var obj = Items[Items.Count - 1];
             return obj;
-
         }
 
     }
